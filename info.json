@@ -1,8 +1,8 @@
 {
     "author" : ["MrDragonBoi (MrDragonBoi#7894)"],
-    "install_msg" : "Hey mate! Thank you so much for installing my first (and possibly only) cog, involving covid-19 stats, locking down channels and more on the way!",
+    "install_msg" : "Hey mate! Thank you so much for installing my first (and possibly only) cog, involving covid-19 stats, locking down channels and more on the way! Also, if you want to install, use [p]cog install quantum-cogs <name-of-cog> and if you find any issue(s), feel free to [make an issue on my GitHub repo.](https://github.com/MrDragonBoi/Quantum-Cogs/issues) Thanks! - Leon P. Keates, the developer",
     "name" : "Quantum-Cogs",
     "short" : "A cog with lockdown commands and covid statistics.",
-    "description" : "A cog with lockdown commands and covid statistics, with a lot more commands coming your way. Note: these are in BETA right now, so feel free to DM me any problems, or make an issue on GitHub. Thanks! <3",
+    "description" : "A cog with lockdown commands and covid statistics, with a lot more commands coming your way. Note: these are in BETA right now, so feel free to DM me any problems.",
     "tags" : ["covid", "lockchannel", "moderation", "coronavirus", "misc"]
 }
