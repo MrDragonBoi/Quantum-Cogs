@@ -1,0 +1,9 @@
+{
+	"author": ["MrDragonBoi"],
+	"description": "Allows you to unlock/lock the channel mentioned or the channel you used the command in.",
+    "install_msg": "Thanks for installing, mate! Now you can lock 'n' load the channels you want!",
+	"short": "Locks/Unlocks the channel the command is used in or mentioned",
+	"tags": ["Staff", "Lock", "Moderation"],
+	"type": "COG",
+	"end_user_data_statement": "This cog does not persistently store data or metadata about users. It is only used to lockdown any channel, but the owner will be able to see errors in his bot error logs channel, which only he can see."
+}
