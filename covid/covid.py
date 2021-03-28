@@ -1,5 +1,3 @@
-import asyncio
-import aiohttp
 import diseaseapi
 from redbot.core import commands
 
