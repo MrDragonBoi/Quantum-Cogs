@@ -8,7 +8,7 @@ Installation is quite easy! Maybe EZPZ? Well! to do that, simply do `[p]repo add
 
 # Contact
 `Discord:` MrDragonBoi#7894 (541872670371741697)
-`Twitter:` [@realMrDragonBoi](twitter.com/realmrdragonboi)
+`Twitter:` [@realMrDragonBoi](https://twitter.com/realmrdragonboi)
 `GitHub:` MrDragonBoi
 
 # Credits
