@@ -1,0 +1,9 @@
+{
+	"author": ["MrDragonBoi"],
+	"description": "Look at the latest COVID-19 cases or deaths for the specified country, US state or everywhere.",
+    "install_msg": "Thanks for installing, mate! Make sure to stay safe from COVID-19 and if you do get offered, get the vaccine! <3",
+	"short": "Check the COVID-19 cases or deaths in the world, a country or a US state specified",
+	"tags": ["API", "Coronavirus", "COVID19"],
+	"type": "COG",
+	"end_user_data_statement": "This cog uses an unofficial discord.py COVID api plugin. The data stored does change, with today's (or last specified days with vaccines) and the total cases and deaths. You can find the original module [here.](https://github.com/apex2504/disease.py)"
+}
